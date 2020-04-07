@@ -8,7 +8,7 @@ Race the A* algorithm in a maze! Built using p5.js
 
 Play the game at https://editor.p5js.org/We-Gold/present/Nw_Y9PLNE
 
-!(Demo of A-Star Maze Race)[https://github.com/We-Gold/A-STAR-Maze-Race/raw/master/demo/finished.png]
+![Demo of A-Star Maze Race](https://github.com/We-Gold/A-STAR-Maze-Race/raw/master/demo/finished.png)
 
 
 ## Code
